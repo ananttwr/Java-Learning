@@ -18,7 +18,7 @@ Welcome to my **Java learning repository**. This repo contains **hands-on exampl
 These examples are designed to be run directly in IntelliJ or any Java IDE. Follow the steps below to start:
 
 1. Clone the repository:
-   ```git clone https://github.com/yourusername/java-learning.git```
+   ```git clone https://github.com/ananttwr/java-learning.git```
 
 2. Open the project in your IDE (e.g., IntelliJ IDEA).
 
